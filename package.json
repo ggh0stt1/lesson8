@@ -1,0 +1,23 @@
+{
+  "name": "lesson8",
+  "version": "1.0.0",
+  "description": "lesson8",
+  "main": "index.js",
+  "scripts": {
+    "scss": "./node_modules/node-sass/bin/node-sass --output-style compressed index.scss > styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggh0stt1/lesson8.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggh0stt1/lesson8/issues"
+  },
+  "homepage": "https://github.com/ggh0stt1/lesson8#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
